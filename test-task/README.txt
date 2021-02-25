@@ -16,9 +16,9 @@ Red points are points of diminishing returns on both original and cumulative gra
 
 Directions on how to build and run your application:
 You can run it with:
-$ java -jar test-task/diminishing-returns.jar test-task/inputDir/input.csv test-task/outputDir
-"test-task/inputDir/input.csv" is input file path parameter
-"test-task/outputDir" is output dir parameter (graphs and result file will be there)
+$ java -jar test-task/diminishing-returns.jar test-task/input-dir/input.csv test-task/output-dir
+"test-task/input-dir/input.csv" is input file path parameter
+"test-task/output-dir" is output dir parameter (graphs and result file will be there)
 Or you can build it as maven project
 
 Comments:
